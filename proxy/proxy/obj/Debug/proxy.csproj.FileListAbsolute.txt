@@ -1,0 +1,6 @@
+C:\Users\oksana\Desktop\proxy\proxy\bin\Debug\proxy.exe.config
+C:\Users\oksana\Desktop\proxy\proxy\obj\Debug\proxy.csprojResolveAssemblyReference.cache
+C:\Users\oksana\Desktop\proxy\proxy\bin\Debug\proxy.exe
+C:\Users\oksana\Desktop\proxy\proxy\bin\Debug\proxy.pdb
+C:\Users\oksana\Desktop\proxy\proxy\obj\Debug\proxy.exe
+C:\Users\oksana\Desktop\proxy\proxy\obj\Debug\proxy.pdb
